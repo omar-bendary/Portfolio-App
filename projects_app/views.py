@@ -17,11 +17,3 @@ def project_detail(request, pk):
     }
     return render(request, 'project_detail.html', context)
 
-
-<<<<<<< HEAD
-def win(request):
-    pass
-=======
-def mac(request):
-    pass
->>>>>>> c27a9093770a84e7533eccd507d737abc28b4177
